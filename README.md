@@ -1,2 +1,2 @@
 # Akaru
-Website Untuk Profil AKARU
+Website Untuk Profil Akaru Web
